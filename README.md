@@ -91,8 +91,8 @@ The app allows users to:
 ## 📈 Model
 
 * **Algorithm:** Logistic Regression
-* **Training Accuracy:** \~ varies depending on dataset
-* **Testing Accuracy:** \~ varies depending on dataset
+* **Training Accuracy:** 0.86 (\~ varies depending on dataset)
+* **Testing Accuracy:** 0.80 (\~ varies depending on dataset)
 
 ---
 
